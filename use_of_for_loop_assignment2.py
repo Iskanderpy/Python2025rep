@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-name = input("Enter name: ")
-
-for _ in range(3):  
-    print("Good morning " + name)  
-=======
 import math
 
 x = int(input("Enter x-coordinate: "))
@@ -21,4 +15,3 @@ magnitude = math.sqrt(sum_of_squares)
 
 print("The magnitude of the vector is:", round(magnitude, 2))
 
->>>>>>> 0f3b64e (initial commmit)
